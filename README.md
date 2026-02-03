@@ -5,6 +5,7 @@ These are a series of command line exercises to help you become more proficient 
 
 **Advice**: Don't solve them all at once. Solve them over multiple days in order to reinforce learning the commands. 
 
+##Tester
 ---
 
 # How to solve
